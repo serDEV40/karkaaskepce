@@ -1,0 +1,69 @@
+{
+    "items": [{
+        "images": [
+            "/img/delici/WhatsApp Image 2023-10-02 at 17.45.34.jpeg",
+            "/img/delici/WhatsApp Image 2023-10-02 at 17.45.35.jpeg",
+            "/img/delici/WhatsApp Image 2023-10-02 at 17.45.36.jpeg"
+        ],
+        "product_name": null,
+        "selling_status": false
+    },{
+        "images": [
+            "/img/ezici/WhatsApp Image 2023-10-02 at 17.45.36 (1).jpeg",
+            "/img/ezici/WhatsApp Image 2023-10-02 at 17.45.37 (1).jpeg"
+        ],
+        "product_name": null,
+        "selling_status": false
+    },{
+        "images": [
+            "/img/hyundai-kepce/WhatsApp Image 2023-10-02 at 17.45.41.jpeg",
+            "/img/hyundai-kepce/WhatsApp Image 2023-10-02 at 17.45.42 (1).jpeg",
+            "/img/hyundai-kepce/WhatsApp Image 2023-10-02 at 17.45.43.jpeg"
+        ],
+        "product_name": null,
+        "selling_status": false
+    }, {
+        "images": [
+            "/img/krımızı-kepce/WhatsApp Image 2023-10-02 at 17.45.47.jpeg",
+            "/img/krımızı-kepce/WhatsApp Image 2023-10-02 at 17.45.48 (1).jpeg",
+            "/img/krımızı-kepce/WhatsApp Image 2023-10-02 at 17.45.49 (1).jpeg",
+            "/img/krımızı-kepce/WhatsApp Image 2023-10-02 at 17.45.50.jpeg",
+            "/img/krımızı-kepce/WhatsApp Image 2023-10-02 at 17.45.51.jpeg",
+            "/img/krımızı-kepce/WhatsApp Image 2023-10-02 at 17.45.52.jpeg"
+        ],
+        "product_name": null,
+        "selling_status": false
+    }, {
+        "images": [
+            "/img/normal-kepce/WhatsApp Image 2023-10-02 at 17.45.43 (1).jpeg",
+            "/img/normal-kepce/WhatsApp Image 2023-10-02 at 17.45.44.jpeg",
+            "/img/normal-kepce/WhatsApp Image 2023-10-02 at 17.45.45.jpeg",
+            "/img/normal-kepce/WhatsApp Image 2023-10-02 at 17.45.46.jpeg"
+        ],
+        "product_name": null,
+        "selling_status": false
+    }, {
+        "images": [
+            "/img/sarı-kepce/WhatsApp Image 2023-10-02 at 17.45.37 (2).jpeg",
+            "/img/sarı-kepce/WhatsApp Image 2023-10-02 at 17.45.38.jpeg",
+            "/img/sarı-kepce/WhatsApp Image 2023-10-02 at 17.45.41 (1).jpeg"
+        ],
+        "product_name": null,
+        "selling_status": false
+    }, {
+        "images": [
+            "/img/traktor-kepce/WhatsApp Image 2023-10-02 at 17.45.39 (1).jpeg",
+            "/img/traktor-kepce/WhatsApp Image 2023-10-02 at 17.45.40 (1).jpeg"
+        ],
+        "product_name": null,
+        "selling_status": false
+    }, {
+        "images": [
+            "/img/volvo-kepce/WhatsApp Image 2023-10-02 at 17.45.39.jpeg",
+            "/img/volvo-kepce/WhatsApp Image 2023-10-02 at 17.45.40 (2).jpeg",
+            "/img/volvo-kepce/WhatsApp Image 2023-10-02 at 17.45.42 (2).jpeg"
+        ],
+        "product_name": null,
+        "selling_status": false
+    }]
+}
